@@ -1,0 +1,5 @@
+../Core/Src/sdk_keyboard.c:38:26:PCA_Write	1
+../Core/Src/sdk_keyboard.c:52:26:PCA_Read	1
+../Core/Src/sdk_keyboard.c:66:6:SDK_Keyboard_Init	1
+../Core/Src/sdk_keyboard.c:87:13:Keyboard_ScanRaw	9
+../Core/Src/sdk_keyboard.c:161:6:SDK_Keyboard_GetKey	7

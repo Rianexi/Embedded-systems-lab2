@@ -1,0 +1,5 @@
+../Core/Src/sdk_keyboard.c:38:26:PCA_Write	32	static
+../Core/Src/sdk_keyboard.c:52:26:PCA_Read	32	static
+../Core/Src/sdk_keyboard.c:66:6:SDK_Keyboard_Init	16	static
+../Core/Src/sdk_keyboard.c:87:13:Keyboard_ScanRaw	24	static,ignoring_inline_asm
+../Core/Src/sdk_keyboard.c:161:6:SDK_Keyboard_GetKey	16	static
